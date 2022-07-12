@@ -1,0 +1,6 @@
+use_frameworks!
+target 'MARSDK_TRACK_Tests' do
+  pod 'MARSDK_TRACK', :path => '../'
+  
+  
+end
