@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MARSDK_TRACK'
-  s.version          = '2.1.3'
+  s.version          = '2.1.4'
   s.summary          = '火星人打包工具'
 
 
